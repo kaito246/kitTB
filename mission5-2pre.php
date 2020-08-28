@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>mission_5-1</title>
 
-<!--メインファイルと違い右側にもborder入れてる-->
+<!--メインファイルと違い右側にもborder入れた-->
 
     <style>
     .left{float: left;
